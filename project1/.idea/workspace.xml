@@ -48,7 +48,7 @@
       <file leaf-file-name="SolveOrder.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SolveOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
+            <state relative-caret-position="915">
               <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -816,12 +816,12 @@
       <option name="presentableId" value="Default" />
       <updated>1482931944922</updated>
       <workItem from="1482931948135" duration="6000" />
-      <workItem from="1482931991701" duration="11196000" />
+      <workItem from="1482931991701" duration="11334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11202000" />
+    <option name="totallyTimeSpent" value="11340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -1023,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SolveOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
+        <state relative-caret-position="915">
           <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
