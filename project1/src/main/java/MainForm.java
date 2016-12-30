@@ -5,5 +5,8 @@ public class MainForm {
 
     public static void main(String[] args){
 
+        Assembler assembler = new Assembler();
+
+        assembler.solveWork();
     }
 }

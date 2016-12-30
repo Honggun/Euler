@@ -8,13 +8,4 @@ public class AskInputNumber extends AskNumber {
     protected void showMessage() {
         System.out.print("몇 이하의 수를 더하실 겁니까? :  ");
     }
-
-    protected int readNumber() {
-
-        int inputNumber;
-
-        inputNumber = readInput.nextInt();
-
-        return inputNumber;
-    }
 }

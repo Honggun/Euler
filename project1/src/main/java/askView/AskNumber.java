@@ -19,5 +19,12 @@ public abstract class AskNumber {
 
     protected abstract void showMessage();
 
-    protected abstract int readNumber();
+    protected int readNumber() {
+
+        int inputNumber;
+
+        inputNumber = readInput.nextInt();
+
+        return inputNumber;
+    }
 }
