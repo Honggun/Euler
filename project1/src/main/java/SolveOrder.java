@@ -57,8 +57,8 @@ public class SolveOrder {
 
         sameNumberList = getSameMultiple.deleteSameNumber(firstMultipleList, secondMultipleList);
 
-        sumNumber.getresult(firstMultipleList, secondMultipleList, sameNumberList);
+        int result = sumNumber.getresult(firstMultipleList, secondMultipleList, sameNumberList);
 
-        System.out.println("구하시는 답은 : " + sumNumber);
+        System.out.println("구하시는 답은 : " + result);
     }
 }

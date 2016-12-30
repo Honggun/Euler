@@ -15,8 +15,8 @@ public class GetSameMultiple {
 
         int forj = 0;
 
-        for(int i=0; i<=secondMultipleList.size(); i++){
-            for(int j=forj; j<=firstMultipleList.size(); j++){
+        for(int i=0; i<secondMultipleList.size(); i++){
+            for(int j=forj; j<firstMultipleList.size(); j++){
 
                 if(firstMultipleList.get(j) < secondMultipleList.get(i)){
                     continue;
